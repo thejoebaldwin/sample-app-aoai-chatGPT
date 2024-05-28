@@ -4,7 +4,11 @@ import { Dialog, Stack, TextField } from '@fluentui/react'
 import { CopyRegular } from '@fluentui/react-icons'
 
 import { CosmosDBStatus } from '../../api'
-import Contoso from '../../assets/Contoso.svg'
+//import Contoso from '../../assets/Contoso.svg'
+import Contoso from '../../assets/HBS-website-logo.png'
+
+
+
 import { HistoryButton, ShareButton } from '../../components/common/Button'
 import { AppStateContext } from '../../state/AppProvider'
 
